@@ -9,8 +9,9 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=youtube&link=https://velog.io/)](https://velog.io/)
 [![Tistory Badge](https://img.shields.io/badge/tistory-000000?style=flat-square&logo=youtube&link=https://www.tistory.com/)](https://www.tistory.com/)
 
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
